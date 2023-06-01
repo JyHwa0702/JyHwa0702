@@ -34,7 +34,7 @@
 	<img src="https://img.shields.io/badge/H2database-00ced1?style=for-the-badge&logo=H2database&logoColor=white">
 </p><br><br><br>
 
-<h2 align="center" fontsize=100pt>📂Projcect📂</h2><br>
+<h2 align="center" fontsize=100pt>📂Project📂</h2><br>
 <h3 align="center">1. OauthLogin&Logout_Board</h3>
 <p align="center">프로젝트 : 로그인,회원가입 기능을 통하여 커뮤니티 게시판이용프로젝트</p>
 <p align="center">개발기간 : 2022.11~2023.01</p>
