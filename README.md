@@ -35,7 +35,7 @@
 </p><br><br><br>
 
 <h2 align="center" fontsize=100pt>📂Project📂</h2><br>
-<h3 align="center">1. OauthLogin&Logout_Board</h3>
+<h3 align="center">1. Oauth_Board</h3>
 <p align="center">프로젝트 : 로그인,회원가입 기능을 통하여 커뮤니티 게시판이용프로젝트</p>
 <p align="center">개발기간 : 2022.11~2023.01</p>
 <p align="center">개발인원 : 1인</p><br>
@@ -45,7 +45,7 @@
 <p align="center">💡 기본적인 게시판 CRUD + 댓글기능 구현</p>
 <p align="center">💡 검색기능을 통해서 게시물 검색가능</p><br><br>
 
-<h3 align="center">2. LoLData</h3>
+<h3 align="center">2.  LOL_Data_Search</h3>
 <p align="center">프로젝트 : 리그오브레전드 api기능을 통한 전적검색 및 게임시작시 카카오톡문자 연동</p>
 <p align="center">개발기간 : 2023.05.24 ~ 진행중</p>
 <p align="center">개발인원 : 1인</p><br>
