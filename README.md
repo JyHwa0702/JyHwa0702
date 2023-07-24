@@ -47,13 +47,12 @@
 
 <h3 align="center">2.  LOL_Data_Search</h3>
 <p align="center">프로젝트 : 리그오브레전드 api기능을 통한 전적검색 및 게임시작시 카카오톡문자 연동</p>
-<p align="center">개발기간 : 2023.05.24 ~ 진행중</p>
+<p align="center">개발기간 : 2023.05.24 ~ 2023.07.09</p>
 <p align="center">개발인원 : 1인</p><br>
 <p align="center"><주요기능></p>
 <p align="center">💡 롤 api 호출하여 전적검색가능</p>
-<p align="center">💡 호출된 전적들 상세정보 호출가능</p>
-<p align="center">💡 등록된 유저들은 게임 시작시 또는 랭크게임 3연패시 본인에게 카카오톡문자 오도록 연동</p>
-<p align="center">💡 추후 기능추가 예정</p><br><br>
+<p align="center">💡 검색한 아이디 전적검색가능</p>
+<p align="center">💡 검색한 아이디를 카카오 로그인 아이디에 담아두기 가능, 담아두면 3연패혹은 그 이상연패시 카카오 로그인 아이디로 카카오톡 알림</p>
 
 
 
