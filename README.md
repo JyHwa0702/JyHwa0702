@@ -54,6 +54,20 @@
 <p align="center">💡 검색한 아이디 전적검색가능</p>
 <p align="center">💡 검색한 아이디를 카카오 로그인 아이디에 담아두기 가능, 담아두면 3연패혹은 그 이상연패시 카카오 로그인 아이디로 카카오톡 알림</p>
 
+<br><br><br>
+<h2 align="center" fontsize=100pt>✍🏻Study✍🏻</h2><br>
+<h3 align="center">책📚</h3>
+<h4 align="center">공부중 : 스프링 부트3 백엔드 개발자되기</h3>
+<h4 align="center">공부중 : 면접을 위한 CS 전공지식 노트</h3>
+<br><br>
+<h3 align="center">인프런 강의</h3>
+<h4 align="center">✅ 수강완료 : 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC,DB 접근기술 (김영한)</h4>
+<h4 align="center">✅ 수강완료 : 스프링 핵심원리 - 기본편 (김영한)</h4>
+<h4 align="center">✅ 수강완료 : 스프링 MVC 1편 - 백엔드 웹개발 핵심 기술(김영한)</h4>
+<h4 align="center">✅ 수강완료 : 자바 ORM 표준 JPA 프로그래밍 - 기본편 (김영한)</h4>
+<h4 align="center">수 강 중 : 모든 개발자를 위한 HTTP 웹 기본 지식  (김영한)</h4>
+
+
 
 
 
